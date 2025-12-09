@@ -1,0 +1,2 @@
+/Users/macbookpro/dev/flutter_apps/debugging/android/app/.cxx/Debug/5p145r50/x86/CMakeFiles/edit_cache.dir
+/Users/macbookpro/dev/flutter_apps/debugging/android/app/.cxx/Debug/5p145r50/x86/CMakeFiles/rebuild_cache.dir
